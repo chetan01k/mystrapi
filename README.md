@@ -60,8 +60,8 @@ Install Node.js from https://nodejs.org
 
 Clone the repository using Git Bash or Command Prompt:
 
-git clone https://github.com/chetan07k/REPO_NAME.git
-cd REPO_NAME
+git clone https://github.com/chetan01k/mystrapi.git
+cd mystrapi
 
 Install dependencies:
 
